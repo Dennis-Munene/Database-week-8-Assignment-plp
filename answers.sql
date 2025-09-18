@@ -1,4 +1,9 @@
 
+-- create database
+CREATE DATABASE university_db;
+-- use created university_db
+USE university_db;
+
 -- 1. Departments
 
 CREATE TABLE Department (
